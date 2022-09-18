@@ -6,9 +6,9 @@ test:
 	#python -m pytest -vv test_hello.py
 
 format:
-	black *.py
+	black *.py dblib/*py
 
 lint:
-	pylint --disable=R,no-name-in-module main.py
+	pylint --disable=R,C --ignore-patterns=test_.*?py *.py dblib
 
 all: install lint test
