@@ -7,10 +7,12 @@
 
 ### Dataset: Museum of Modern Art Collection
 https://www.kaggle.com/datasets/momanyc/museum-collection
-
+<img width="479" alt="Screen Shot 2022-09-18 at 11 33 50 PM" src="https://user-images.githubusercontent.com/89174034/190945627-5fb23db0-53a8-43ad-88e7-576785c16351.png">
 
 
 The Museum of Modern Art (MoMA) is located in the world-renowned destination for art -- New York City. Nowadys, the Museum’s  collection contains almost 200,000 works from the world including painting, architecture, design, film,  and performance art. One of my favourate piece of Vincent van Gogh: The Starry Night is exhibited in MoMa.
+
+
 
 
 
