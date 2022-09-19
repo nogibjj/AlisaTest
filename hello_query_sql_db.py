@@ -11,14 +11,12 @@ def cli():
 
 # build a click command
 @cli.command()
-@click.option(
-    "--query",
-    default="SELECT * FROM default.diamonds LIMIT 2",
-    help="SQL query to execute",
-)
-def cli_query(query):
-    """Execute a SQL query"""
-    querydb(query)
+@click.option("--country", default="American", help="Please type the nationality of artists you are interested in.")
+
+def cli_query(country):
+    """Execute a SQL query from artist database to find artists of a certain country"""
+    querydb(country)
+
 
 
 # run the CLI
