@@ -30,12 +30,23 @@ The following words will be shown from MoMa's touch device app:
 "Hello! Welcome to New York City and welcome to the Museum of Modern Art! This is one of the greates art galleries in the world. Before stepping into MoMA, which country's artists are you intereted in?"
 
 
-###  
+###  How2:
+
+
+
+![IMG_0421](https://user-images.githubusercontent.com/89174034/190946090-2982d74f-6082-463e-9786-efca9328addd.jpg)
+
+
+
+
+###  Result: 
+<img width="1298" alt="Screen Shot 2022-09-18 at 11 42 47 PM" src="https://user-images.githubusercontent.com/89174034/190946285-c634b8ff-2275-486c-accb-a367aa3cfd09.png">
+
 
 
 
 ###  Error: 
+Failure to map between nationality and artist. Will ask for help in the office hours. 
 
-![IMG_0421](https://user-images.githubusercontent.com/89174034/190946090-2982d74f-6082-463e-9786-efca9328addd.jpg)
 
-I failed to 
+
