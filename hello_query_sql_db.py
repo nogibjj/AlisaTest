@@ -11,7 +11,7 @@ def cli():
 
 # build a click command
 @cli.command()
-@click.option("--country", default="American", help="Please type the nationality of artists you are interested in.")
+@click.option("--country", default="SELECT Name FROM default.artists_1_csv", help="Please type the nationality of artists you are interested in.")
 
 def cli_query(country):
     """Execute a SQL query from artist database to find artists of a certain country"""
