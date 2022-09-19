@@ -28,7 +28,10 @@ When the visitor enter the MoMa, they can find the artists or artwork they are i
 The following words will be shown from MoMa's touch device app: 
 
 "Hello! Welcome to New York City and welcome to the Museum of Modern Art! This is one of the greates art galleries in the world. Before stepping into MoMA, which country's artists are you intereted in?"
-Content
+
+
+###  
+
 
 
 ###  Error: 
