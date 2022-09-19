@@ -6,7 +6,7 @@ from dblib.querydb import querydb
 # build a click group
 @click.group()
 def cli():
-    """A simple CLI to query a SQL database"""
+    """Execute a SQL query from artist database to find artists of a certain country"""
 
 
 # build a click command
