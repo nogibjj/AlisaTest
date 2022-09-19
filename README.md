@@ -1,5 +1,7 @@
 ###  1st Project 
 
+![02_MoMA_Brand_Identity_Design_Logotype_Order_New_York_USA_BPO](https://user-images.githubusercontent.com/89174034/190945448-4daa4706-57af-428b-92f2-c62ff75ad874.jpeg)
+
 
 ### Dataset: Museum of Modern Art Collection
 https://www.kaggle.com/datasets/momanyc/museum-collection
