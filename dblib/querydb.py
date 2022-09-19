@@ -10,7 +10,7 @@ def querydb(query="American"):
     ) as connection:
 
         with connection.cursor() as cursor:
-            cursor.execute("SELECT Name FROM default.artists_1_csv WHERE spark_catalog.default.artists_1_csv.Nationality="+query)
+            cursor.execute("SELECT Name FROM default.artists_1_csv WHERE Nationality="+query)
             result = cursor.fetchall()
 
         for row in result:
