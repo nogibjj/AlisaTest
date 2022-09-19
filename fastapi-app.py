@@ -7,23 +7,16 @@ app = FastAPI()
 
 @app.get("/")
 async def root():
-    return {"message": "Hello Databricks"}
+    return {"message": "Hello! Welcome to New York City and welcome to the Museum of Modern Art! This is one of the greates art galleries in the world. Before stepping into MoMA, which country's artists are you intereted in?"}
 
-
-@app.get("/add/{num1}/{num2}")
-async def add(num1: int, num2: int):
-    """Add two numbers together"""
-
-    total = num1 + num2
-    return {"total": total}
 
 
 @app.get("/query")
 async def query():
-    """Execute a SQL query"""
+    """Execute a SQL query from artist database to find artists of a certain country"""
 
     result = querydb()
-    return {"result": result}
+    return {"THE ARTISTS": result}
 
 
 if __name__ == "__main__":
