@@ -35,4 +35,7 @@ The following words will be shown from MoMa's touch device app:
 
 
 ###  Error: 
+
+![IMG_0421](https://user-images.githubusercontent.com/89174034/190946090-2982d74f-6082-463e-9786-efca9328addd.jpg)
+
 I failed to 
