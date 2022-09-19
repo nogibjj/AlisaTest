@@ -10,7 +10,7 @@ def querydb(query="American"):
     ) as connection:
 
         with connection.cursor() as cursor:
-            cursor.execute("SELECT Name FROM default.artists_1_csv WHERE Nationality="+query)
+            cursor.execute("SELECT Name FROM default.artists_1_csv WHERE Nationality="+query+"DESC")
             result = cursor.fetchall()
 
         for row in result:
